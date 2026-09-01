@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pjoong4/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/pjoong4/LeetCode/tree/master/0268-missing-number) |
 | [3467-transform-array-by-parity](https://github.com/pjoong4/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pjoong4/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pjoong4/LeetCode/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pjoong4/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pjoong4/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
