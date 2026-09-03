@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pjoong4/LeetCode/tree/master/0268-missing-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pjoong4/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pjoong4/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pjoong4/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/pjoong4/LeetCode/tree/master/0938-range-sum-of-bst) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pjoong4/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
