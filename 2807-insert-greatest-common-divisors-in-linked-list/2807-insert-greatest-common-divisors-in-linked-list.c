@@ -11,7 +11,7 @@ struct ListNode* insertGreatestCommonDivisors(struct ListNode* head) {
 
     while(curr->next){
         for(int i = curr->val ; i>=1 ; i--){
-            if((curr->next)&&(curr->next->val % i == 0) && (curr->val %i ==0)){
+            if((curr->next->val % i == 0) && (curr->val %i ==0)){
                 struct ListNode* newNode = (struct ListNode*)malloc(sizeof(struct ListNode));
                 newNode->next = curr->next;
                 curr->next = newNode;
