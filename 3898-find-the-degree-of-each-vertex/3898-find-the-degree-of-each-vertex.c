@@ -6,7 +6,7 @@ int* findDegrees(int** matrix, int matrixSize, int* matrixColSize, int* returnSi
 
     for(int i=0 ; i<matrixSize ; i++){
         output[i] = 0;
-        for(int j=0 ; j<*matrixColSize ; j++){
+        for(int j=0 ; j<matrixSize ; j++){
             output[i] += matrix[i][j];
         }
     }
