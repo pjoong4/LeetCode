@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pjoong4/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/pjoong4/LeetCode/tree/master/0268-missing-number) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pjoong4/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3467-transform-array-by-parity](https://github.com/pjoong4/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pjoong4/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/pjoong4/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/pjoong4/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pjoong4/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pjoong4/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pjoong4/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
