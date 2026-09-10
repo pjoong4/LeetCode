@@ -2,7 +2,7 @@ int mirrorDistance(int n) {
     int result=0;
     int num = n;
     while(num){
-        result += (num%10) * pow(10,(int)log10(num));
+        result = (result*10) + (num%10);
 
         num /= 10;
     }
