@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pjoong4/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pjoong4/LeetCode/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pjoong4/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pjoong4/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/pjoong4/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/pjoong4/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pjoong4/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pjoong4/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pjoong4/LeetCode/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
 | ------- |
