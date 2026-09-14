@@ -1,10 +1,8 @@
 bool isPowerOfTwo(int n) {
     int count=0;
-    while(n){
-        if(count) return false;
-        if(n&(1UL)) count++;
-        n=n>>1;
+    while(n>0){
+        if(n &= (n-1)) return false;
+        return true;
     }
-    if(count == 1)  return true;
     return false;
 }
