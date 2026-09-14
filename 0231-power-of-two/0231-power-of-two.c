@@ -1,6 +1,5 @@
 bool isPowerOfTwo(int n) {
-    int count=0;
-    while(n>0){
+    if(n>0){
         if(n &= (n-1)) return false;
         return true;
     }
