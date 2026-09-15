@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pjoong4/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/pjoong4/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pjoong4/LeetCode/tree/master/0268-missing-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pjoong4/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3467-transform-array-by-parity](https://github.com/pjoong4/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pjoong4/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pjoong4/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pjoong4/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pjoong4/LeetCode/tree/master/0268-missing-number) |
