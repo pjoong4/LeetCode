@@ -10,13 +10,8 @@ int* grayCode(int n, int* returnSize) {
     for(int i=1; i<OUTPUT_SIZE(n); i++)
     {
         temp = 0; 
-        for(int j=0; j<((i/16)+1)*4; j++)
+        for(int j=0; j<n; j++)
         {
-            if(j==(((i/16)+1)*4)-1)
-            {
-                temp |= ((i>>j)&(1UL))<<j;
-                break;
-            }
             temp |= (((i>>j)&(1UL))^((i>>(j+1))&(1UL)))<<j;
         }//for j
         result[i]=temp;                             
